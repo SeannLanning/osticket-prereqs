@@ -25,5 +25,5 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Enable Internet Information Services (IIS)
 - Install MySQL
 - Install C++ Redistributable
-- Configure Permission/Agents
+- Configure Permissions/Agents
 
