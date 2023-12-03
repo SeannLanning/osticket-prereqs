@@ -24,7 +24,6 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Enable Internet Information Services (IIS)
 - Install MySQL
-- Install C++ Redistributable
 - Configure Admin Permissions
 
 ![image](https://github.com/SeannLanning/osticket-prereqs/assets/70045086/9a7d7814-0f31-4e92-a46d-bb75af37e6ca)
